@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
   - ingress-nginx.yaml
   - metrics-server.yaml
+  - external-secrets.yaml
